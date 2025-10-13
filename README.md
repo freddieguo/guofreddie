@@ -1,7 +1,7 @@
-# Walmart Sales Analysis (2010–2012)
+# Walmart Sales Analysis
 This project analyzes **Walmart’s weekly sales data** to explore patterns across stores, seasons, and economic conditions.
 
-## Key Findings 
+## Key Findings
 - **Holiday Effect:** Sales increase by ~8% during major holiday weeks.  
 - **Seasonality:** December consistently records the highest monthly revenue peak.  
 - **Store Concentration:** 27 out of 45 stores account for **80% of total sales**, showing strong revenue concentration.  
