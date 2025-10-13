@@ -1,5 +1,4 @@
 # Walmart Sales Analysis (2010–2012)
-
 This project analyzes **Walmart’s weekly sales data** to explore patterns across stores, seasons, and economic conditions.
 
 ## Key Findings 
@@ -22,4 +21,3 @@ This project analyzes **Walmart’s weekly sales data** to explore patterns acro
 
 ## Dataset Source
 - **Source:** [Kaggle – Walmart Sales Dataset](https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data)
-Weekly sales data from 45 Walmart stores across the U.S. (2010–2012), including related economic indicators such as fuel price, CPI, temperature, and unemployment rate.
