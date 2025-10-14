@@ -1,6 +1,9 @@
 # Walmart Sales Analysis
 This project analyzes **Walmart’s weekly sales data** to explore patterns across stores, seasons, and economic conditions.
 
+## View the Analysis
+[➡️ Open walmart_analysis.ipynb](./walmart_analysis.ipynb)
+
 ## Key Findings
 - **Holiday Effect:** Sales increase by ~8% during major holiday weeks.  
 - **Seasonality:** December consistently records the highest monthly revenue peak.  
